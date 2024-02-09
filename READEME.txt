@@ -1,0 +1,4 @@
+1.pip install youtube_transcript_api
+2.you should only copy youtube video id. not url
+3.And you can only convert to text with subtitles cc video
+5.finally add hate words to hate.py
